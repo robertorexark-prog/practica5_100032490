@@ -1,0 +1,51 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fa3c46;
+    color: #643c3c;
+    padding: 20px;
+    border: 5px solid #000000;
+}
+
+header {
+    background-color: #e6dce6;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #643c3c;
+}
+
+footer {
+    background-color: #f0e6e6;
+    padding: 10px;
+    text-align: center;
+    border-top: 2px solid #643c3c;
+}
+
+nav {
+    margin-top: 10px;
+    text-align:left;
+}
+
+h1, h2, h3 {
+    color: #643c3c;
+}
+
+.mision-img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.golshi-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #e6dce6;
+    background-color: #f0d28c;
+}
